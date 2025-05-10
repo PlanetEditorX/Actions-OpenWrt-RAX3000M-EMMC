@@ -1,3 +1,5 @@
+# CMCC RAX3000M EMMC 的Openwrt编译主仓库
+
 # 借助 GitHub Actions 的 OpenWrt 在线自动编译.
 
 #### hanwckf大佬mt798x闭源仓库- [hanwckf/immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x).
